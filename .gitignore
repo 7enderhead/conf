@@ -1,3 +1,5 @@
 /*
 !/.gitignore
+!/.inputrc
+!/.vimrc
 !/.config/awesome/rc.lua
