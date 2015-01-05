@@ -2,4 +2,5 @@
 !/.gitignore
 !/.inputrc
 !/.vimrc
+!/.Xresources
 !/.config/awesome/rc.lua
