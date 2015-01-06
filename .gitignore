@@ -4,4 +4,5 @@
 !/.vimrc
 !/.Xresources
 !/.xsessionrc
+!/.tmux.conf
 !/.config/awesome/rc.lua
